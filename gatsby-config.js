@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+  pathPrefix:"/helloGatsby",
   /* Your site config here */
   plugins: [],
 }
